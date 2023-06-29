@@ -1,0 +1,12 @@
+
+h1 {
+    color: rgb(5, 134, 134);
+}
+
+main{
+    background-color: rgb(240, 157, 99);
+    margin: 0 auto;
+    margin-top: 25vh;
+    min-height: 500px;
+    border-radius: 50px;
+}
